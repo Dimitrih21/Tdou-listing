@@ -20,7 +20,7 @@
 <!-- Navbar -->
 
     <nav class="essai navbar navbar-expand-lg  navbar-dark fixed-top " id="navbar">
-    <img id="logo" alt="logo" src="logo.png" class="px-4 ">
+    <img id="logo" alt="logo" src="img/logo.png" class="px-4 ">
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -39,7 +39,7 @@
               <a class="nav-link text-white" href="contact.php">Nous contacter</a>
             </li>
             <li class="px-1 nav-item">
-                <img class="taille" alt="logo" src="loupe.png" onclick="recherch()"id="search">
+                <img class="taille" alt="logo" src="img/loupe.png" onclick="recherch()"id="search">
 
     <form name="formbarre">
     <input type="text" name="barre" id="barre" placeholder= "Rechercher..." />
@@ -49,13 +49,13 @@
           </ul>
          <ul class="px-4  navbar-nav mr-auto d">
            <li class="px-4 nav-item">
-                        <a href="contact.php" class="stdetaile"> <img class="taille" alt="telephone" src="tel.png"></a>
+                        <a href="contact.php" class="stdetaile"> <img class="taille" alt="telephone" src="img/tel.png"></a>
            </li>
            <li class=" px-4 nav-item">
-             <a href="contact.php" class="stdetaile">  <img class="taille" alt="utilisateur"src="user.png"></a>
+             <a href="contact.php" class="stdetaile">  <img class="taille" alt="utilisateur"src="img/user.png"></a>
            </li>
            <li class="px-4 nav-item">
-             <a href="contact.php" class="stdetaile">  <img class="taille" alt="panier"src="panier.png"></a>
+             <a href="contact.php" class="stdetaile">  <img class="taille" alt="panier"src="img/panier.png"></a>
            </li>
          </ul>
          <script language="javascript">
@@ -76,28 +76,28 @@
     <div class="accordian">
     	<ul>
     		<li>
-    				<img src="sticker-tdou-ass.png" alt="stickers de saint étienne">
+    				<img src="img/sticker-tdou-ass.png" alt="stickers de saint étienne">
             <p class="stikéquipe"> STICKERS AS SAINT <br>ETIENNE</p>
             <p class="prix"> 6€</p>
             <p class="produit">VOIR LE PRODUIT</p>
     		</li>
 
     		<li>
-    				<img src="sticker-tdou-ol.png" alt="stickers de l'olympique lyonnais">
+    				<img src="img/sticker-tdou-ol.png" alt="stickers de l'olympique lyonnais">
             <p class="stikéquipe"> STICKERS OLYMPIQUE <br>LYONNAIS</p>
             <p class="prix"> 6€</p>
             <p class="produit">VOIR LE PRODUIT</p>
     		</li>
 
     		<li>
-    				<img src="sticker-tdou-om.png" alt="stickers l'olympique de marseille">
+    				<img src="img/sticker-tdou-om.png" alt="stickers l'olympique de marseille">
             <p class="stikéquipe"> STICKERS OLYMPIQUE <br>DE MARSEILLE</p>
             <p class="prix"> 6€</p>
             <p class="produit">VOIR LE PRODUIT</p>
     		</li>
 
     		<li>
-    				<img src="sticker-tdou-psg.png" alt="stickers du psg">
+    				<img src="img/sticker-tdou-psg.png" alt="stickers du psg">
             <p class="stikéquipe"> STICKERS PARIS SAINT<br> GERMAIN</p>
             <p class="prix"> 6€</p>
             <p class="produit">VOIR LE PRODUIT</p>
@@ -118,7 +118,7 @@
     <!-- Partie listing -->
 
 <div class="container-fluid">
-      <img src="bmw-listing.png" alt="photo bmw">
+      <img src="img/bmw-listing.png" alt="photo bmw">
   <div class="présentation">
       <h2 class="titre2">VERITABLE STICKERS POUR PLAQUE D'IMMATRICULATION</h2>
 
@@ -130,7 +130,7 @@
     <div class="carteslyon">
       <ul>
         <li>
-          <img src="carte-lyon.png" alt="carte de lyon" class="imglyon">
+          <img src="img/carte-lyon.png" alt="carte de lyon" class="imglyon">
           <div class="overlay pls">
             <div class="sticker">STICKER OLYMPIQUE LYONNAIS</div>
             <div class="euros">6€</div>
@@ -139,7 +139,7 @@
         </li>
 
         <li>
-          <img src="carte-lyon.png" alt="carte de lyon" class="imglyon">
+          <img src="img/carte-lyon.png" alt="carte de lyon" class="imglyon">
           <div class="overlay pls">
             <div class="sticker">STICKER OLYMPIQUE LYONNAIS</div>
             <div class="euros">6€</div>
@@ -148,7 +148,7 @@
         </li>
 
         <li>
-          <img src="carte-lyon.png" alt="carte de lyon" class="imglyon">
+          <img src="img/carte-lyon.png" alt="carte de lyon" class="imglyon">
           <div class="overlay pls">
             <div class="sticker">STICKER OLYMPIQUE LYONNAIS</div>
             <div class="euros">6€</div>
@@ -157,17 +157,7 @@
         </li>
 
         <li>
-          <img src="carte-lyon.png" alt="carte de lyon" class="imglyon">
-          <div class="overlay pls">
-            <div class="sticker">STICKER OLYMPIQUE LYONNAIS</div>
-            <div class="euros">6€</div>
-            <div class="produit2">VOIR LE PRODUIT</div>
-          </div>
-        </li>
-
-
-        <li>
-          <img src="carte-lyon.png" alt="carte de lyon" class="imglyon">
+          <img src="img/carte-lyon.png" alt="carte de lyon" class="imglyon">
           <div class="overlay pls">
             <div class="sticker">STICKER OLYMPIQUE LYONNAIS</div>
             <div class="euros">6€</div>
@@ -177,7 +167,7 @@
 
 
         <li>
-          <img src="carte-lyon.png" alt="carte de lyon" class="imglyon">
+          <img src="img/carte-lyon.png" alt="carte de lyon" class="imglyon">
           <div class="overlay pls">
             <div class="sticker">STICKER OLYMPIQUE LYONNAIS</div>
             <div class="euros">6€</div>
@@ -187,7 +177,7 @@
 
 
         <li>
-          <img src="carte-lyon.png" alt="carte de lyon" class="imglyon">
+          <img src="img/carte-lyon.png" alt="carte de lyon" class="imglyon">
           <div class="overlay pls">
             <div class="sticker">STICKER OLYMPIQUE LYONNAIS</div>
             <div class="euros">6€</div>
@@ -197,7 +187,7 @@
 
 
         <li>
-          <img src="carte-lyon.png" alt="carte de lyon" class="imglyon">
+          <img src="img/carte-lyon.png" alt="carte de lyon" class="imglyon">
           <div class="overlay pls">
             <div class="sticker">STICKER OLYMPIQUE LYONNAIS</div>
             <div class="euros">6€</div>
@@ -207,7 +197,7 @@
 
 
         <li>
-          <img src="carte-lyon.png" alt="carte de lyon" class="imglyon">
+          <img src="img/carte-lyon.png" alt="carte de lyon" class="imglyon">
           <div class="overlay pls">
             <div class="sticker">STICKER OLYMPIQUE LYONNAIS</div>
             <div class="euros">6€</div>
@@ -217,7 +207,7 @@
 
 
         <li>
-          <img src="carte-lyon.png" alt="carte de lyon" class="imglyon">
+          <img src="img/carte-lyon.png" alt="carte de lyon" class="imglyon">
           <div class="overlay pls">
             <div class="sticker">STICKER OLYMPIQUE LYONNAIS</div>
             <div class="euros">6€</div>
@@ -227,7 +217,7 @@
 
 
         <li>
-          <img src="carte-lyon.png" alt="carte de lyon" class="imglyon">
+          <img src="img/carte-lyon.png" alt="carte de lyon" class="imglyon">
           <div class="overlay pls">
             <div class="sticker">STICKER OLYMPIQUE LYONNAIS</div>
             <div class="euros">6€</div>
@@ -237,7 +227,17 @@
 
 
         <li>
-          <img src="carte-lyon.png" alt="carte de lyon" class="imglyon">
+          <img src="img/carte-lyon.png" alt="carte de lyon" class="imglyon">
+          <div class="overlay pls">
+            <div class="sticker">STICKER OLYMPIQUE LYONNAIS</div>
+            <div class="euros">6€</div>
+            <div class="produit2">VOIR LE PRODUIT</div>
+          </div>
+        </li>
+
+
+        <li>
+          <img src="img/carte-lyon.png" alt="carte de lyon" class="imglyon">
           <div class="overlay pls">
             <div class="sticker">STICKER OLYMPIQUE LYONNAIS</div>
             <div class="euros">6€</div>

@@ -172,6 +172,7 @@ a:hover {
   background-color: black;
   color: white!important;
   margin:  20px 40px;
+  text-decoration: none!important;
 }
 
 /* Partie listing */
